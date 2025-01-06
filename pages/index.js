@@ -20,7 +20,7 @@ export default function Home() {
                 <meta name="description" content="Welcome to my professional portfolio as a fresh CSE student." />
                 <meta name="keywords" content="CSE Student, Portfolio, Sabit Bin Azad, Programming, Software Development" />
                 <meta name="author" content="Sabit Bin Azad" />
-                <link rel="icon" href="/images/head.png" />
+                <link rel="icon" href="/images/logo.jpeg" />
             </Head>
 
 
@@ -107,11 +107,6 @@ export default function Home() {
                         Explore my passion for technology, programming, and innovative solutions in the world of software development.
                     </p>
                 </div>
-
-
-
-
-
 
 
             </main>

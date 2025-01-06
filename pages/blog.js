@@ -18,7 +18,7 @@ export default function About() {
                 <meta name="description" content="Welcome to my professional portfolio as a fresh CSE student." />
                 <meta name="keywords" content="CSE Student, Portfolio, Sabit Bin Azad, Programming, Software Development" />
                 <meta name="author" content="Sabit Bin Azad" />
-                <link rel="icon" href="/images/head.png" />
+                <link rel="icon" href="/images/logo.jpeg" />
             </Head>
 
             <header className="text-dark py-3">
