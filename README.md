@@ -39,15 +39,15 @@ Welcome to my GitHub profile! I’m a passionate developer with expertise in cre
 ---
 
 ## 📈 **GitHub Stats**  
-![Sabit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)  
+![Sabit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sabitbinazad&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sabitbinazad&layout=compact&theme=radical)  
 
 ---
 
 ## 🤝 **Let's Connect!**  
-- **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)  
-- **Portfolio:** [your-portfolio-link](https://your-portfolio-link)  
-- **Email:** your-email@example.com  
+- **LinkedIn:** [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/sabitbinazad)  
+- **Portfolio:** [your-portfolio-link](https://sabitbinazad.netlify.app/)  
+- **Email:** sabitbinazad01@gmail.com  
 
 ---
 
