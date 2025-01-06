@@ -37,6 +37,11 @@ Welcome to my GitHub profile! I’m a passionate developer with expertise in cre
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
 
+### **Operating Systems:**  
+![MacOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)  
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)  
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)  
+
 ---
 
 ## 🏅 **Certifications**  
@@ -59,8 +64,8 @@ Welcome to my GitHub profile! I’m a passionate developer with expertise in cre
 ---
 
 ## 🤝 **Let's Connect!**  
-- **LinkedIn:** [linkedin.com/in/sabitbinazad]
-- **Portfolio:** [https://sabitbinazad.netlify.app]  
+- **LinkedIn:** linkedin.com/in/sabitbinazad
+- **Portfolio:** https://sabitbinazad.netlify.app  
 - **Email:** sabitbinazad01@gmail.com  
 
 ---
