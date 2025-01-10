@@ -64,7 +64,7 @@ Welcome to my GitHub profile! I’m a passionate developer with expertise in cre
 ---
 
 ## 🤝 **Let's Connect!**  
-- **LinkedIn:** linkedin.com/in/sabitbinazad
+- **LinkedIn:** https://linkedin.com/in/sabitbinazad
 - **Portfolio:** https://sabitbinazad.netlify.app  
 - **Email:** sabitbinazad01@gmail.com  
 
