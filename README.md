@@ -70,15 +70,15 @@ Welcome to my GitHub profile! I’m a passionate developer with expertise in cre
 ---
 
 ## 🏅 **Certifications**  
-- **IBM Full Stack Software Developer Professional Certificate**  
-- **IBM Back-End JavaScript Developer Professional Certificate**  
-- **IBM Full-Stack JavaScript Developer Professional Certificate**  
+**IBM Full Stack Software Developer Professional Certificate**  
+**IBM Back-End JavaScript Developer Professional Certificate**  
+**IBM Full-Stack JavaScript Developer Professional Certificate**  
 
 ---
 
 ## 🌱 **Currently Learning**  
-- Advanced DevOps tools  
-- Microservices architecture  
+Advanced DevOps tools  
+Microservices architecture  
 
 ---
 
@@ -93,7 +93,7 @@ Welcome to my GitHub profile! I’m a passionate developer with expertise in cre
 ## 🤝 **Let's Connect!**  
 <div style="display: flex; justify-content: center; gap: 30px;">
   <a href="https://linkedin.com/in/sabitbinazad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://sabitbinazad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://sabitbinazad.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio Website"></a>
   <a href="mailto:sabitbinazad01@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
