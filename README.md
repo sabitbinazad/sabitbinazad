@@ -5,6 +5,15 @@
 Welcome to my GitHub profile! I’m a passionate developer with expertise in creating efficient, scalable, and user-focused applications. I love exploring new technologies, solving complex problems, and building impactful projects.
 
 ---
+## 🚀 **Skills & Technologies**
+
+### **Operating Systems:**
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu">
+</div>
 
 <div align="center">
 
